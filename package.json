@@ -1,6 +1,6 @@
 {
   "name": "wx2-npmtest001",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Simple framework to react productivity",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -8,7 +8,7 @@
     "test": "echo 1",
     "tsc": "tsc",
     "build": "npm run tsc & babel src --out-dir dist --extensions .ts,.tsx",
-    "publish": "npm run build & npm publish"
+    "npm:publish": "npm run build & npm publish"
   },
   "repository": {
     "type": "git",
