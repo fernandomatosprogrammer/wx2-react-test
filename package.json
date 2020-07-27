@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fernandomatosprogrammer/wx2-react.git"
+    "url": "git+https://github.com/fernandomatosprogrammer/wx2-react-test.git"
   },
   "keywords": [
     "react",
@@ -21,9 +21,9 @@
   "author": "Fernando Prudente de Matos",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fernandomatosprogrammer/wx2-react/issues"
+    "url": "https://github.com/fernandomatosprogrammer/wx2-react-test/issues"
   },
-  "homepage": "https://github.com/fernandomatosprogrammer/wx2-react#readme",
+  "homepage": "https://github.com/fernandomatosprogrammer/wx2-react-test#readme",
   "peerDependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
