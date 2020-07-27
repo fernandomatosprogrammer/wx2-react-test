@@ -7,5 +7,5 @@ script:
     - npm run build    
 deploy: 
     provider: npm
-    email: "fernandomatosprogrammer@gmail.com"
+    email: $API_ACCOUNT
     api_key: $API_KEY
