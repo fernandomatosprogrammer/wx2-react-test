@@ -6,7 +6,8 @@ install:
 script:    
     - npm run build    
 deploy: 
-    - if: branch = master
-      provider: npm
-      email: $API_ACCOUNT
-      api_key: $API_KEY
+    provider: npm
+    email: $API_ACCOUNT
+    api_key: $API_KEY
+    on:
+        branch: master
