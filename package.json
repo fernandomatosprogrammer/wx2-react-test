@@ -1,6 +1,6 @@
 {
   "name": "wx2-npmtest001",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description": "Simple framework to react productivity",
   "main": "./index.js",
   "types": "./index.d.ts",
