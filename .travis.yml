@@ -8,6 +8,4 @@ script:
 deploy: 
     provider: npm
     email: "fernandomatosprogrammer@gmail.com"
-    api_key: 
-        secure: "MVZRuCKqG2F0UDvVWPl00ycJUQB2urykm3VtRQpBqSp5JBAnsYvvJvC4QDvCZXpig3ez1q/3azeFcG5s8jHCSb37g6F3hsjuu6vAMMQQPDZB3Hd2AFi4ErbRVJHjkAucxWXUw/qFII00DfSYHlNClxPflHs5GlbqqQ9Pqd/P4wdXmiawowEiz9PryvdNmaJoLO4z4nHAuoO6zL3/XEzvodUv5+7XjckKQCuuwuW9on7gSGyUwO9uvPjpCmK+w2c7+5e53hYeGDT276GQnIKwh+5Qy2AWdW5eBAD7RCweTC2suPD1Z80DELMwHou1nmWfMRPeZLH8cJ1RNwoA7sc5NkhPFVGofnZQEgvoQPW4NSdXnhcdILQpIt5wT/R3fmRpcYZcAiMWA5Ieh1ud7xOm981M3FC7oc/MGXnq1AzAzYH6pQpQLR8x7BDcUHcuP5Q8DtKcir30BJ/tKKR0q7vawCYw5PgNEuVloGoLR2/VxtpvjiRzh8Mx9xB8WhftyCl/QrZWK+4KIvU6Fd3JCO0Y4We7XBSPc1pzDBhI81HNMchDjIEXzIX4LuAHpuPQKFZ7ytpauVtqB05/o+oomRePlH7Z1W+YROHc4nuDRKFwio7qMw2Y7XO8bcxnoliDQFUjl3BknzLLiWM58zlSejt/b3V6tkieX0prWg3TseeFLaE="
-
+    api_key: $API_KEY
